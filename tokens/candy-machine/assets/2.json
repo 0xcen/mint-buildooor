@@ -1,0 +1,28 @@
+{
+  "name": "Memories #3",
+  "symbol": "MEMORIES",
+  "description": "A memory",
+  "image": "2.jpg",
+  "attributes": [
+    {
+      "trait_type": "accessory",
+      "value": "laptop"
+    },
+    {
+      "trait_type": "chair",
+      "value": "blue"
+    },
+    {
+      "trait_type": "books",
+      "value": "white"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.jpg",
+        "type": "image/png"
+      }
+    ]
+  }
+}
